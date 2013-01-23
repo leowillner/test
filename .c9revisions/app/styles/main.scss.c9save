@@ -1,0 +1,6 @@
+{"ts":1358879793568,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"@import \"compass_twitter_bootstrap\";"]],"start1":0,"start2":0,"length1":0,"length2":36}]],"length":36}
+{"contributors":[],"silentsave":false,"ts":1358879918208,"patch":[[{"diffs":[[0,"tstrap\";"],[1,"\n\nh1 {\n    color:red;\n}"]],"start1":28,"start2":28,"length1":8,"length2":31}]],"length":59,"saved":false}
+{"ts":1358879997197,"patch":[[{"diffs":[[0,"trap\";\n\n"],[1,".container .hero-unit "],[0,"h1 {\n   "]],"start1":30,"start2":30,"length1":16,"length2":38}]],"length":81,"saved":false}
+{"ts":1358880049831,"patch":[[{"diffs":[[0,"lor:"],[1,"g"],[0,"re"],[-1,"d"],[1,"en"],[0,";\n}"]],"start1":71,"start2":71,"length1":10,"length2":12}]],"length":83,"saved":false}
+{"ts":1358880135326,"patch":[[{"diffs":[[0,"lor:"],[-1,"green"],[1,"blue"],[0,";\n}"]],"start1":71,"start2":71,"length1":12,"length2":11}]],"length":82,"saved":false}
+{"ts":1358880693316,"patch":[[{"diffs":[[0,"lor:"],[-1,"blue"],[1,"yellow"],[0,";\n}"]],"start1":71,"start2":71,"length1":11,"length2":13}]],"length":84,"saved":false}

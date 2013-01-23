@@ -1,0 +1,18 @@
+{"ts":1358531568029,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<!DOCTYPE html>\r\n\r\n<!--\r\n    This is an HTML page that contains a CSS and a Javascript file.\r\n    \r\n    Run this sample by clicking the 'Preview' button on top;\r\n    a new tab will open with the current page open.\r\n-->\r\n<html lang=\"en\">\r\n    <head>\r\n        <meta charset=\"utf-8\" />\r\n        <title>Hello world from Cloud9!</title>\r\n        <link rel=\"stylesheet\" href=\"css/main.css\" type=\"text/css\"/>\r\n    </head>\r\n    \r\n    <body>\r\n        <h1>Hello world!</h1>\r\n        <p class=\"tagline\"></p>\r\n    </body>\r\n</html>"]],"start1":0,"start2":0,"length1":0,"length2":518}]],"length":518}
+{"contributors":[],"silentsave":false,"ts":1358535102252,"patch":[[{"diffs":[[0,"lo world"],[-1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":17,"length2":16}]],"length":517,"saved":false}
+{"ts":1358540130908,"patch":[[{"diffs":[[0,"lo world"],[1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":16,"length2":17}]],"length":518,"saved":false}
+{"ts":1358540858356,"patch":[[{"diffs":[[0,"lo world"],[-1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":17,"length2":16}]],"length":517,"saved":false}
+{"ts":1358541717609,"patch":[[{"diffs":[[0,"lo world"],[1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":16,"length2":17}]],"length":518,"saved":false}
+{"ts":1358541745448,"patch":[[{"diffs":[[0,"lo world"],[-1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":17,"length2":16}]],"length":517,"saved":false}
+{"ts":1358543047866,"patch":[[{"diffs":[[0,"lo world"],[1,"!\r\n        "],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":16,"length2":27}]],"length":528,"saved":false}
+{"ts":1358543055826,"patch":[[{"diffs":[[0,"o world!"],[-1,"\r\n        "],[0,"</h1>\r\n "]],"start1":450,"start2":450,"length1":26,"length2":16}]],"length":518,"saved":false}
+{"ts":1358543368161,"patch":[[{"diffs":[[0,"lo world"],[-1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":17,"length2":16}]],"length":517,"saved":false}
+{"ts":1358543632511,"patch":[[{"diffs":[[0,"lo world"],[1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":16,"length2":17}]],"length":518,"saved":false}
+{"ts":1358543908767,"patch":[[{"diffs":[[0,"lo world"],[-1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":17,"length2":16}]],"length":517,"saved":false}
+{"ts":1358543924567,"patch":[[{"diffs":[[0,"lo world"],[1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":16,"length2":17}]],"length":518,"saved":false}
+{"ts":1358543934774,"patch":[[{"diffs":[[0,"lo world"],[-1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":17,"length2":16}]],"length":517,"saved":false}
+{"ts":1358543980323,"patch":[[{"diffs":[[0,"lo world"],[1,"!"],[0,"</h1>\r\n "]],"start1":449,"start2":449,"length1":16,"length2":17}]],"length":518,"saved":false}
+{"ts":1358544157438,"patch":[[{"diffs":[[0," wor"],[-1,"ld!"],[0,"</h1"]],"start1":451,"start2":451,"length1":11,"length2":8}]],"length":515,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1358544270127,"patch":[[{"diffs":[[0,"ello wor"],[1,"ld!"],[0,"</h1>\r\n "]],"start1":447,"start2":447,"length1":16,"length2":19}]],"length":518,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1358549640578,"patch":[[{"diffs":[[0,"    "],[1,"<body>"],[0,"\r\n    <"],[-1,"body"],[1,"script src=\"http://127.6.179.129:35729/livereload.js\"></script"],[0,">\r\n "]],"start1":416,"start2":416,"length1":19,"length2":83}]],"length":582,"saved":false}
+{"ts":1358550229873,"patch":[[{"diffs":[[0,"lo world"],[-1,"!"],[0,"</h1>\r\n "]],"start1":513,"start2":513,"length1":17,"length2":16}]],"length":581,"saved":false}
